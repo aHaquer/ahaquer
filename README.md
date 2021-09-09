@@ -1,3 +1,5 @@
 ### Hi there 👋
- <img src="https://tryhackme-badges.s3.amazonaws.com/aHaquer.png" alt="TryHackMe">
+
+ <script src="https://tryhackme.com/badge/158550"></script>
+
 Just look at my [writeups](https://github.com/aHaquer/writeups) repository.
