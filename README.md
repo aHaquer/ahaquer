@@ -1,1 +1,1 @@
-Just look at my [writeups](https://github.com/aHaquer/writeups) repository.
+# [ahaquer.github.com](https://ahaquer.github.com)
